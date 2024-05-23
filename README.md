@@ -28,11 +28,7 @@
 >
   >O "port" padrão do CochroachDB é 26257
 >
-  >Antes de executar o arquivo é necessário comentar a linha 33 e 34
->
-  >![image](https://github.com/GuiJustica/BancoDeDados/assets/55902652/ccd00365-8a72-4ef1-9240-3cefab29f50f)
->
-  >Caso contrário, ocorrerá um erro
+  >Após isso arquivo deverá ser executado com sucesso!
 
 
 
