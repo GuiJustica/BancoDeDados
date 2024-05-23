@@ -20,10 +20,12 @@
 >
   >Baixar o arquivo projetoDB.py
 >
-  >Abrir o arquivo python na sua IDE de preferência
+  >Abrir o arquivo python na sua IDE de escolha
 >
   >Preencher os dados abaixo de acordo com o seu "connect"
+>
 >![image](https://github.com/GuiJustica/BancoDeDados/assets/55902652/5d0a5d7e-1373-43ba-ab1c-21ccbdfecc40)
+>
   >"port" padrão do CochroachDB é 26257
 >Antes de executar o arquivo é necessário comentar a linha 33 e 34
   >![image](https://github.com/GuiJustica/BancoDeDados/assets/55902652/ccd00365-8a72-4ef1-9240-3cefab29f50f)
