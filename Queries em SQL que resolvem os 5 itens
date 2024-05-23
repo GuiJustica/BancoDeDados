@@ -1,5 +1,5 @@
 
->--1 Histórico escolar de qualquer aluno, retornando o código e nome da disciplina, semestre e ano que a disciplina foi cursada e nota final
+--1 Histórico escolar de qualquer aluno, retornando o código e nome da disciplina, semestre e ano que a disciplina foi cursada e nota final
 SELECT id_aluno, hist_aluno1.id_disciplina, disciplina1.nome, hist_aluno1.nota_final, semestre, ano
 FROM hist_aluno1 JOIN disciplina1 ON disciplina1.id_disciplina = hist_aluno1.id_disciplina
 WHERE id_aluno = 1; --> Mude o valor para saber o histórico específico de cada aluno
