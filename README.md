@@ -13,7 +13,7 @@
 
 ![image](https://github.com/GuiJustica/BancoDeDados/assets/55902652/65690e46-ddeb-4460-b8f5-25e977e8eb34)
 
-### Como conectar o banco de dados
+## Como conectar o banco de dados
   >Criar seu próprio Cluster no CockroachDB
 >
   >Clicar em "connect" para ter as informações de acesso
