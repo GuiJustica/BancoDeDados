@@ -1,7 +1,7 @@
 # Banco De Dados
 ## Trabalho de Banco de Dados - Instituto Universitário DIGIGUI
 
-### Integrantes do Grupo
+### Integrantes do Projeto
   >Diego Jardim - - 24.122.094-6
 >
   >Giovanne Montalvão - - 24.122.029-2
