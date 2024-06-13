@@ -27,7 +27,7 @@ HAVING MIN(hist_aluno1.nota_final) >= 5;
 
 
 --4 Listar todos os professores que são chefes de departamento, junto com o nome do departamento
-SELECT professor1.nome, departamento1.id_chefe
+SELECT professor1.nome, departamento1.id_chefe, departamento1.nome
 FROM professor1 JOIN departamento1 ON id_chefe = id_professor
 
 
